@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 成年人
 
-You can use the [editor on GitHub](https://github.com/wiseman18/wiseman18/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/99532302/153705159-b4bfa83a-ea18-4d69-a4a1-90618ae7e447.png)
+> [成年人](https://zh.wikipedia.org/wiki/成年人)，即已经发育成熟的人，与未成年人相对应。各个国家和地区，甚至同一地区的不同法律类别（如投票年龄、适婚年龄），法定成年对成年人的定义不同，满足条件的年龄从16岁至21岁不等。心理学上认为，20岁属于成年初期。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 参考
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wiseman18/wiseman18/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

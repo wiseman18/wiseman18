@@ -1,13 +1,11 @@
 # 成年人
 
-![image](https://user-images.githubusercontent.com/99532302/153705159-b4bfa83a-ea18-4d69-a4a1-90618ae7e447.png)
-> [成年人](https://zh.wikipedia.org/wiki/成年人)，即已经发育成熟的人，与未成年人相对应。各个国家和地区，甚至同一地区的不同法律类别（如投票年龄、适婚年龄），法定成年对成年人的定义不同，满足条件的年龄从16岁至21岁不等。心理学上认为，20岁属于成年初期。
+![image](https://user-images.githubusercontent.com/99532302/154830784-6dd72b39-6979-46e4-97be-2a8797b5bcd7.png)
+> [成年人](https://zh.wikipedia.org/wiki/成年人)，即已经发育成熟的人，与未成年人相对应。
 
 ## [奈飞文化手册](https://book.douban.com/subject/30356081/)
 
 ![](https://img9.doubanio.com/view/subject/l/public/s29923776.jpg)
-
-![image](https://user-images.githubusercontent.com/99532302/154829093-8e1800a1-8827-4cb6-87e0-2f99cbcf2f75.png)
 
 ### 前言 自由与责任，奈飞文化的核心
 
@@ -152,7 +150,6 @@
 不要让员工在不得不离开时才获得应得的薪水
 保证每个人都获得市场高水平的薪水
 告别密薪制，薪酬透明有助于市场定价
-
 
 不要让员工在不得不离开时才获得应得的薪水。
 根据我的经验，如果你有意招聘你能发现的最佳人选、给他们支付最高的薪水，你会发现，他们为业务增长带来的价值总是会大大超过他们的薪水。
